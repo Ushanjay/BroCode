@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">BroCode</string>
+    <string name="text01">LOG OUT</string>
+    <string name="text02">Dashboard</string>
+    <string name="text03">SITE NAME</string>
+    <string name="text04">Riders</string>
+    <string name="text05">Rider 01</string>
+    <string name="text06">Rider 02</string>
+    <string name="text07">Rider 03</string>
+    <string name="text08">Rider 04</string>
+    <string name="text09">Rider 05</string>
+    <string name="text11">Rider 06</string>
+    <string name="text12">Orders</string>
+    <string name="text13">Order 01</string>
+    <string name="text14">Order 02</string>
+    <string name="text15">Order 03</string>
+    <string name="text16">Order 04</string>
+    <string name="text17">Order 05</string>
+    <string name="text18">Order 06</string>
+    <string name="text19">Rider Details</string>
+    <string name="text20">Rider ID: 001</string>
+    <string name="text21">Rider Name: Ushan</string>
+    <string name="text22">NIC: 765434567V</string>
+    <string name="text23">Phone Number: 0987654345</string>
+    <string name="text24">Experience: 2years</string>
+    <string name="text25">Address: Moratuwa</string>
+    <string name="text26">Add Rider To The System</string>
+    <string name="text27">Rider ID</string>
+    <string name="text28">Rider Name</string>
+    <string name="text29">NIC</string>
+    <string name="text30">Phone Number</string>
+    <string name="text31">Experience</string>
+    <string name="text32">Address</string>
+    <string name="text33">Update Driver Details</string>
+    <string name="text34">Order Details</string>
+    <string name="text35">Order Details: A1 Waterproof smart Watch Wireless GSM SIM Phone Camera For Android/iOS</string>
+    <string name="text36">Quantity: 02</string>
+    <string name="text37">Address: SLIIT, New Kandy Rd, Malbe </string>
+    <string name="text38">Add Rider For Delivery</string>
+    <string name="text39">Order ID</string>
+    <string name="text40">Quantity</string>
+    <string name="text41">Update Delivery Details</string>
+    <string name="text42">Order ID: 00001</string>
+    <string name="text43">Order Details: Smart Watch</string>
+    <string name="text44">Address: Malabe</string>
+
+</resources>
