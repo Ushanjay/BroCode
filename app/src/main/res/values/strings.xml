@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Online shopping store</string>
+    <string name="text1">Select Categories</string>
+    <string name="text2">Name</string>
+    <string name="text3">Recently Viewed Items</string>
+    <string name="text4">Online shopping store items through daily grocery app online supermarket store at best price</string>
+    <string name="text5">Top Discounted Items</string>
+    <string name="text6">view</string>
+    <string name="text7">ADD</string>
+    <string name="text8">Categories</string>
+    <string name="text9">Add image</string>
+    <string name="text10">Edit</string>
+</resources>
