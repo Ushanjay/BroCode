@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mana</string>
+    <string name="text01">Shopping Store</string>
+    <string name="text02">Search:by</string>
+    <string name="text03">Products</string>
+    <string name="text04">FEATURED</string>
+    <string name="text05">Popular Restaurants</string>
+    <string name="text06">Biscuts</string>
+    <string name="text07">Chips Packets</string>
+    <string name="text08">Yoghurt</string>
+    <string name="text09">Iteams-05</string>
+
+</resources>
